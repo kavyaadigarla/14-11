@@ -1,0 +1,4 @@
+l=[2,4,5,6,8]
+diff=max(l)-min(l)
+print("difference between min and max:",diff)
+
